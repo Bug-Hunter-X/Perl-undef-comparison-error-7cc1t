@@ -1,0 +1,1 @@
+This repository contains a Perl code example that highlights a frequent error in handling undefined values.  The example shows an incorrect approach to comparing a variable to undef and provides the correct solution using the defined() function. This is a common mistake among Perl developers.
